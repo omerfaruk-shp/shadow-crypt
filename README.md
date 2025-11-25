@@ -83,7 +83,7 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edin:
 
 ```bash
 # 1. Repoyu Klonlayın
-git clone [https://github.com/kullaniciadi/ShadowCrypt.git](https://github.com/kullaniciadi/ShadowCrypt.git)
+git clone https://github.com/omerfaruk-shp/shadow-crypt/
 
 # 2. Proje dizinine girin
 cd ShadowCrypt
